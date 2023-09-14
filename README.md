@@ -1,4 +1,4 @@
-Este espacio está destinado a contener información que sea útil para la comprensión de conceptos, gracias al intercambio de conocimientos necesarios para lograr la alineación de criterios.
+Este espacio está destinado a contener información que útil para la comprensión y alineación de conceptos, gracias al intercambio de conocimientos por parte de los diferentes colaboradores de **AppOX**.
 
 Si en algún momento identificas que hay una conversación con tu equipo de trabajo donde no es fácil llegar a una conclusión definitiva, es posible que sea el momento de escribir aquí lo que conoces del tema e invitar a tu equipo de trabajo a que contribuyan con su conocimiento.
 
@@ -6,7 +6,7 @@ Si en algún momento identificas que hay una conversación con tu equipo de trab
 
 - Usa este espacio para temas de carácter general.
 - Evita dejar aquí información específica de personas o proyectos.
-- Se respetuoso con los futuros lectores.
+- Se respetuoso con los futuros lectores de tu publicación.
 
 ## Como crear un artículo
 
